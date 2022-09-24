@@ -3,8 +3,9 @@ In keeping with their preparation guide
 (https://www.metacareers.com/careers/swe-structured-escreen-prep),
 I am first doing these exercises in coderpad
 (https://app.coderpad.io/sandbox)
-before migrating to pycharm, then pushing to gitlab.
+before migrating to hackerrank to test, copying to pycharm, then pushing to gitlab.
 
+What follows is quoted verbatim from meta's preparation guide:
 
 1. Overview
 • Each exercise could take you up to one hour.
