@@ -1,6 +1,7 @@
 """
 Topic 1 | Arrays & Strings
-• A Very Big Sum (Warm-up, learning how to use HackerRank)
+A Very Big Sum (Warm-up, learning how to use HackerRank)
+https://www.hackerrank.com/challenges/a-very-big-sum/problem
 
 In this challenge, you are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
 
