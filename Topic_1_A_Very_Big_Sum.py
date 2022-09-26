@@ -44,7 +44,7 @@ When we add several integer values, the resulting sum might exceed the above ran
 
 ## Will the built-in integer data structure be big enough to handle the sum or will
 ## I need to think about using/implementing something like "bigint?"
-## I'm fairly sure that if a number surpasses what the int class can handle, python starts using exponential notation and carries on just fine. I will continue under this premise, though I'm wondering if that will defeat the purpose a bit as it seems like this exercise may be in part testing whether the programmer knows how to typecast appropriately.
+## I'm fairly sure that if a number surpasses what the int class can handle, python starts using scientific notation and carries on just fine. I will continue under this premise, though I'm wondering if that will defeat the purpose a bit as it seems like this exercise may be in part testing whether the programmer knows how to typecast appropriately.
 ## Are they all integers? -- yes, the question clarfies this
 ## Is it the sum that's "quite large" or the integers themselves? -- looks like the addends may be quite large
 
