@@ -60,6 +60,7 @@ def isBalanced(s):
 # of a NO indicating unbalanced brackets.
 
 # And it worked! First try again!! Having a good night :-)
+# That one took me around 30 minutes.
 
 
 
