@@ -23,3 +23,5 @@ enqueue_pointer.append("different_value")
 
 print(stack_1)
 print(stack_2)
+
+print(len([4]))
